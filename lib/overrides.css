@@ -1,0 +1,7 @@
+.slick-loading .slick-list {
+  background-image: url("/packages/udondan_slick/vendor/slick/slick/ajax-loader.gif");
+}
+@font-face {
+  font-family: "slick";
+  src: url("/packages/udondan_slick/vendor/slick/slick/fonts/slick.eot"); src: url("/packages/udondan_slick/vendor/slick/slick/fonts/slick.eot?#iefix") format("embedded-opentype"), url("/packages/udondan_slick/vendor/slick/slick/fonts/slick.woff") format("woff"), url("/packages/udondan_slick/vendor/slick/slick/fonts/slick.ttf") format("truetype"), url("/packages/udondan_slick/vendor/slick/slick/fonts/slick.svg#slick") format("svg");
+}
