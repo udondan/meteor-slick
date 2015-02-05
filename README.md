@@ -44,7 +44,7 @@ meteor add udondan:slick
 #carousel {
   border:   1px solid black;
   width:    200px;
-  position: relaitve;
+  position: relative;
   top:      100px;
   left:     100px;
 }
