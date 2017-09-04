@@ -2,6 +2,8 @@
 Slick
 ==========
 
+__NO LONGER MAINTAINED__
+
 Slick smart package for [Meteor][1].
 
 Some features, as listed on the [demo page][2]:
